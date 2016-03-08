@@ -29,4 +29,4 @@ while hit == "Yes":
 
 
 if hit == "No":
-	print("Your score is {}.").format(number)
+	print("Your score is {}, good try.").format(number)
